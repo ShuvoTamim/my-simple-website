@@ -1,8 +1,12 @@
 div{
     background-color: cadetblue;
-    padding: 20px;
+    padding: 10px;
     margin-bottom: 5px;
 }
 h3{
    background-color: chocolate;
+}
+.pagla{
+    background-color:#d86338;
+    font-style: italic;
 }
